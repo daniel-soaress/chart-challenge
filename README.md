@@ -12,15 +12,10 @@ Desafio prosposta pela PrimeIT | MCoutinho:
 
 Escondemos alguns dados de vendas no nosso website público (www.mcoutinhopecas.pt) e desafiamos-te a fazer uma mini app que mostre a evolução de vendas (dica: talvez começar pelos elementos com o attribute data-year seja boa ideia)!
 
-Já ficaste a conhecer as tecnologias que usamos, mas não te prendas por elas (se as usares será valorizado), apenas precisamos que no final nos envies o source code para darmos uma vista de olhos (pode ser um link do github, bitbucket, …).
-
 O que é esperado:
 
 - Encontrar e processar os dados de vendas;
-- Mostrá-los num frontend com um gráfico à tua escolha e com uma opção que permita mostrar/ocultar os anos ímpares (outra dica 😊).
-
-Qualquer dúvida que tenhas sobre o desafio podes abordar-nos. Estamos/estaremos cá para isso!
-
+- Mostrá-los num frontend com um gráfico à tua escolha e com uma opção que permita mostrar/ocultar os anos ímpares.
 
 ---
 
