@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Blog - Lost Code
+  💻<br>Desafio - Mcoutinho | PrimeIt
 </h1>
 
 ![Resultado final do projeto](public/preview.png)
