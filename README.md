@@ -4,6 +4,8 @@
 
 ![Resultado final do projeto](public/preview.png)
 
+<h4 align="center"><a href="https://dashboard-mcoutinho-nx82xltvv-danielsoaress.vercel.app/">Clique para visitar o projeto</a></h4>
+
 ## 📚 Aplicação
 
 Desafio prosposta pela PrimeIT | MCoutinho:
