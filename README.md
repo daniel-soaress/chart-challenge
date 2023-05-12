@@ -10,7 +10,7 @@
 
 Desafio prosposta:
 
-Escondemos alguns dados de vendas no nosso <a href="www.mcoutinhopecas.pt/">website</a> público e desafiamos-te a fazer uma mini app que mostre a evolução de vendas (dica: talvez começar pelos elementos com o attribute data-year seja boa ideia)!
+Escondemos alguns dados de vendas no nosso <a href="https://www.mcoutinhopecas.pt">website</a> público e desafiamos-te a fazer uma mini app que mostre a evolução de vendas (dica: talvez começar pelos elementos com o attribute data-year seja boa ideia)!
 
 O que é esperado:
 
