@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Desafio
+  💻<br>Desafio - (Vue.js + Chart.js)
 </h1>
 
 ![Resultado final do projeto](public/preview.png)
