@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Desafio - Mcoutinho | PrimeIt
+  💻<br>Desafio
 </h1>
 
 ![Resultado final do projeto](public/preview.png)
@@ -8,9 +8,9 @@
 
 ## 📚 Aplicação
 
-Desafio prosposta pela PrimeIT | MCoutinho:
+Desafio prosposta:
 
-Escondemos alguns dados de vendas no nosso website público (www.mcoutinhopecas.pt) e desafiamos-te a fazer uma mini app que mostre a evolução de vendas (dica: talvez começar pelos elementos com o attribute data-year seja boa ideia)!
+Escondemos alguns dados de vendas no nosso website público e desafiamos-te a fazer uma mini app que mostre a evolução de vendas (dica: talvez começar pelos elementos com o attribute data-year seja boa ideia)!
 
 O que é esperado:
 
